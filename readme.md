@@ -7,5 +7,6 @@ The specs I've uploaded here are part of my working through the materials,
 and include other specs as part of working through the problems.
 
 ## Author
-[@oshea00](https://https://twitter.com/oshea00)
+[oshea00@github](https://gihub.com/oshea00)
+[@oshea00](https://twitter.com/oshea00)
 
